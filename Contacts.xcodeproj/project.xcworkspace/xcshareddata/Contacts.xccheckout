@@ -12,6 +12,8 @@
 	<dict>
 		<key>4229D16E3D67E443837497A7D343EB0EEDC74B72</key>
 		<string>https://github.com/maulr/Contacts.git</string>
+		<key>84E8A2BFF288C06B0423665AE8B517D9C5CC79AD</key>
+		<string>https://github.com/maulr/Unit3Lesson4ContactsWithTBC.git</string>
 		<key>CD0F373F5C593951E988C0DF48C221634981CD7C</key>
 		<string>https://github.com/maulr/Unit3Lesson4OutlestActions.git</string>
 	</dict>
@@ -21,15 +23,17 @@
 	<dict>
 		<key>4229D16E3D67E443837497A7D343EB0EEDC74B72</key>
 		<string>../../../Contacts</string>
-		<key>CD0F373F5C593951E988C0DF48C221634981CD7C</key>
+		<key>84E8A2BFF288C06B0423665AE8B517D9C5CC79AD</key>
 		<string>../..</string>
+		<key>CD0F373F5C593951E988C0DF48C221634981CD7C</key>
+		<string>../../../Unit3Lesson4OutlestActions</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/maulr/Unit3Lesson4OutlestActions.git</string>
+	<string>https://github.com/maulr/Unit3Lesson4ContactsWithTBC.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>CD0F373F5C593951E988C0DF48C221634981CD7C</string>
+	<string>84E8A2BFF288C06B0423665AE8B517D9C5CC79AD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -39,6 +43,14 @@
 			<string>4229D16E3D67E443837497A7D343EB0EEDC74B72</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Contacts</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>84E8A2BFF288C06B0423665AE8B517D9C5CC79AD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Unit3Lesson4ContactsWithTBC</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
